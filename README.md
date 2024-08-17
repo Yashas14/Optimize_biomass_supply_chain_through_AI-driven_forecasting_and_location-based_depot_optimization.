@@ -27,8 +27,7 @@ We perform a sacred cleansing ceremony on our biomass dataset, banishing duplica
 Our AI shaman groups districts based on their biomass auras, using the ancient art of Pearson correlation.
 
 #### 🌾 Crop Prophecy Table
-We conjure a mystical table of crop production, drawing wisdom from the [Desagri oracle]
-(https://data.desagri.gov.in/website/crops-report-major-contributing-district-web).
+We conjure a mystical table of crop production, drawing wisdom from the [Desagri oracle](https://data.desagri.gov.in/website/crops-report-major-contributing-district-web).
 
 #### 🗺️ Elevating Our Vision
 We summon crop land spirits from [EarthStat](http://www.earthstat.org/) and elevation deities from [NASA's NEO realm](https://neo.gsfc.nasa.gov/dataset_index.php#energy).
